@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun 20 03:25:17 2020
-
 @author: Devansh Gupta
 """
 #Gaussian - Trilateration
@@ -37,12 +35,6 @@ for key in dfs.keys():
 
     gauss = (1/(np.sqrt(var*2*np.pi)))*np.exp(-((rssi-mean)*(rssi-mean))/var)
 
-#Plotting gaussian probablity function
-#plt.scatter(rssi,gauss)
-#plt.xlabel('RSSI values')
-#plt.ylabel('gaussian probability')
-#plt.title('Gaussian probability function plot')
-#plt.show()
 
 #creating list of rssi values which lie close to the mean
     c=[]
