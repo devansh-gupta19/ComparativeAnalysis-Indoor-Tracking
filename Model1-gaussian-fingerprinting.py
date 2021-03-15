@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 18 23:25:27 2020
-
 @author: Devansh Gupta
 """
 #Gaussian - Moving average filter - Fingerprinting
