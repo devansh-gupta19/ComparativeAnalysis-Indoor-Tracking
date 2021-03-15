@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 19 00:39:18 2020
-
 @author: Devansh Gupta
 """
 
